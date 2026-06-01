@@ -1,0 +1,1826 @@
+0    [AWT-EventQueue-0] INFO  ca.sqlpower.architect.ArchitectUtils  - Log4J configured successfully
+973  [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1023 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+1023 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Beginning to read/merge new pl.ini data
+1043 [AWT-EventQueue-0] INFO  ca.sqlpower.sql.PlDotIni  - Finished reading file.
+76435 [Thread-2] ERROR ca.sqlpower.architect.swingui.action.CheckForUpdateAction  - Fail to retrieve current version number!
+651706 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@57d4a1c2]
+1209892 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@57d4a1c2]
+1219258 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1219261 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1219261 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1239567 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@57d4a1c2]
+1330830 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330832 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330833 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330834 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330835 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330835 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330835 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330836 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330837 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330838 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330839 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330840 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330841 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1330842 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331315 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331315 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331316 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331316 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331316 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331316 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331317 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331318 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331319 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331320 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331321 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331322 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331323 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331324 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331325 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331326 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331327 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331328 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331329 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331329 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331329 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331665 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331666 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331666 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331666 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331666 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331666 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331667 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331667 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331667 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331667 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331667 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331669 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331670 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331671 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331672 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331673 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1331674 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332040 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332041 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332041 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332041 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332041 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332042 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332042 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332042 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332042 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332042 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332043 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332044 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332045 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332046 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332047 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332048 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332049 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332050 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332051 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332051 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332051 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332051 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332051 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332441 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332442 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332443 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332444 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332445 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332446 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332447 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332448 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332449 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332450 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332451 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332452 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332453 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332454 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332455 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332456 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332457 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332874 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332875 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332876 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332877 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332878 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332879 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332880 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332881 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332882 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332883 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332884 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332885 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332886 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1332887 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1333274 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1333661 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1333662 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1333663 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1333666 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.ExceptionHandler  - Uncaught exception
+java.lang.IndexOutOfBoundsException: Index: -1, Size: 0
+	at java.base/java.util.ArrayList.rangeCheckForAdd(ArrayList.java:788)
+	at java.base/java.util.ArrayList.add(ArrayList.java:513)
+	at ca.sqlpower.sqlobject.SQLIndex.addIndexColumn(SQLIndex.java:1016)
+	at ca.sqlpower.sqlobject.SQLIndex.addChildImpl(SQLIndex.java:673)
+	at ca.sqlpower.object.AbstractSPObject.addChild(AbstractSPObject.java:107)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.addChild(SPObjectChildEdit.java:85)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.undo(SPObjectChildEdit.java:116)
+	at java.desktop/javax.swing.undo.CompoundEdit.undo(CompoundEdit.java:67)
+	at ca.sqlpower.object.undo.SPObjectUndoManager$SPObjectUndoableEventAdapter$CompEdit.undo(SPObjectUndoManager.java:115)
+	at java.desktop/javax.swing.undo.UndoManager.undoTo(UndoManager.java:347)
+	at java.desktop/javax.swing.undo.UndoManager.tryUndoOrRedo(UndoManager.java:474)
+	at java.desktop/javax.swing.undo.UndoManager.undo(UndoManager.java:416)
+	at ca.sqlpower.object.undo.SPObjectUndoManager.undo(SPObjectUndoManager.java:459)
+	at ca.sqlpower.architect.swingui.action.UndoAction.actionPerformed(UndoAction.java:79)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:349)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Actions.actionPerformed(BasicMenuItemUI.java:932)
+	at java.desktop/javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1810)
+	at java.desktop/javax.swing.JComponent.processKeyBinding(JComponent.java:2900)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:699)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processKeyBinding(JMenuBar.java:677)
+	at java.desktop/javax.swing.KeyboardManager.fireBinding(KeyboardManager.java:311)
+	at java.desktop/javax.swing.KeyboardManager.fireKeyboardAction(KeyboardManager.java:297)
+	at java.desktop/javax.swing.JComponent.processKeyBindingsForAllComponents(JComponent.java:2993)
+	at java.desktop/javax.swing.JComponent.processKeyBindings(JComponent.java:2985)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2862)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1333729 [AWT-EventQueue-0] INFO  ca.sqlpower.util.ExceptionReport  - Posting error report to SQL Power at URL <http://bugs.sqlpower.ca/architect/postReport>
+1337139 [AWT-EventQueue-0] ERROR ca.sqlpower.util.ExceptionReport  - Couldn't send exception report to <"http://bugs.sqlpower.ca/architect/postReport">
+java.net.SocketTimeoutException: connect timed out
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:279)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:376)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:397)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1270)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1204)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1098)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1032)
+	at ca.sqlpower.util.ExceptionReport.send(ExceptionReport.java:283)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.handleAndReport(ExceptionHandler.java:117)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.uncaughtException(ExceptionHandler.java:74)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1055)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1050)
+	at java.desktop/java.awt.EventDispatchThread.processException(EventDispatchThread.java:222)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:214)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1338065 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338065 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338065 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338065 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338972 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338972 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338973 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1338973 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1339668 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340378 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340378 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340378 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340379 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340380 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340381 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340382 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340383 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340384 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340385 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340385 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340385 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340386 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340387 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340388 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340389 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340390 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340391 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340392 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340393 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340394 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setFkConnection
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setPkConnection
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340395 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340396 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340397 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1340398 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1340399 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1341083 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1341084 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1341647 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1342377 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.ExceptionHandler  - Uncaught exception
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.base/java.util.ArrayList.rangeCheckForAdd(ArrayList.java:788)
+	at java.base/java.util.ArrayList.add(ArrayList.java:513)
+	at ca.sqlpower.sqlobject.SQLTable.addColumnWithoutPopulating(SQLTable.java:1119)
+	at ca.sqlpower.sqlobject.SQLTable.addColumnWithoutPopulating(SQLTable.java:1082)
+	at ca.sqlpower.sqlobject.SQLTable.addChildImpl(SQLTable.java:1158)
+	at ca.sqlpower.object.AbstractSPObject.addChild(AbstractSPObject.java:107)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.addChild(SPObjectChildEdit.java:85)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.undo(SPObjectChildEdit.java:116)
+	at java.desktop/javax.swing.undo.CompoundEdit.undo(CompoundEdit.java:67)
+	at ca.sqlpower.object.undo.SPObjectUndoManager$SPObjectUndoableEventAdapter$CompEdit.undo(SPObjectUndoManager.java:115)
+	at java.desktop/javax.swing.undo.UndoManager.undoTo(UndoManager.java:347)
+	at java.desktop/javax.swing.undo.UndoManager.tryUndoOrRedo(UndoManager.java:474)
+	at java.desktop/javax.swing.undo.UndoManager.undo(UndoManager.java:416)
+	at ca.sqlpower.object.undo.SPObjectUndoManager.undo(SPObjectUndoManager.java:459)
+	at ca.sqlpower.architect.swingui.action.UndoAction.actionPerformed(UndoAction.java:79)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:349)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Actions.actionPerformed(BasicMenuItemUI.java:932)
+	at java.desktop/javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1810)
+	at java.desktop/javax.swing.JComponent.processKeyBinding(JComponent.java:2900)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:699)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processKeyBinding(JMenuBar.java:677)
+	at java.desktop/javax.swing.KeyboardManager.fireBinding(KeyboardManager.java:311)
+	at java.desktop/javax.swing.KeyboardManager.fireKeyboardAction(KeyboardManager.java:297)
+	at java.desktop/javax.swing.JComponent.processKeyBindingsForAllComponents(JComponent.java:2993)
+	at java.desktop/javax.swing.JComponent.processKeyBindings(JComponent.java:2985)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2862)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1342445 [AWT-EventQueue-0] INFO  ca.sqlpower.util.ExceptionReport  - Posting error report to SQL Power at URL <http://bugs.sqlpower.ca/architect/postReport>
+1345447 [AWT-EventQueue-0] ERROR ca.sqlpower.util.ExceptionReport  - Couldn't send exception report to <"http://bugs.sqlpower.ca/architect/postReport">
+java.net.SocketTimeoutException: connect timed out
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:279)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:376)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:397)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1270)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1204)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1098)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1032)
+	at ca.sqlpower.util.ExceptionReport.send(ExceptionReport.java:283)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.handleAndReport(ExceptionHandler.java:117)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.uncaughtException(ExceptionHandler.java:74)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1055)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1050)
+	at java.desktop/java.awt.EventDispatchThread.processException(EventDispatchThread.java:222)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:214)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1346164 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346165 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346165 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346166 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346167 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setTopLeftCorner
+1346724 [AWT-EventQueue-0] INFO  ca.sqlpower.object.undo.PropertyChangeEdit  - Found setter: setLengths
+1347322 [AWT-EventQueue-0] ERROR ca.sqlpower.architect.swingui.ExceptionHandler  - Uncaught exception
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.base/java.util.ArrayList.rangeCheckForAdd(ArrayList.java:788)
+	at java.base/java.util.ArrayList.add(ArrayList.java:513)
+	at ca.sqlpower.sqlobject.SQLTable.addColumnWithoutPopulating(SQLTable.java:1119)
+	at ca.sqlpower.sqlobject.SQLTable.addColumnWithoutPopulating(SQLTable.java:1082)
+	at ca.sqlpower.sqlobject.SQLTable.addChildImpl(SQLTable.java:1158)
+	at ca.sqlpower.object.AbstractSPObject.addChild(AbstractSPObject.java:107)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.addChild(SPObjectChildEdit.java:85)
+	at ca.sqlpower.object.undo.SPObjectChildEdit.undo(SPObjectChildEdit.java:116)
+	at java.desktop/javax.swing.undo.CompoundEdit.undo(CompoundEdit.java:67)
+	at ca.sqlpower.object.undo.SPObjectUndoManager$SPObjectUndoableEventAdapter$CompEdit.undo(SPObjectUndoManager.java:115)
+	at java.desktop/javax.swing.undo.UndoManager.undoTo(UndoManager.java:347)
+	at java.desktop/javax.swing.undo.UndoManager.tryUndoOrRedo(UndoManager.java:474)
+	at java.desktop/javax.swing.undo.UndoManager.undo(UndoManager.java:416)
+	at ca.sqlpower.object.undo.SPObjectUndoManager.undo(SPObjectUndoManager.java:459)
+	at ca.sqlpower.architect.swingui.action.UndoAction.actionPerformed(UndoAction.java:79)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:349)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Actions.actionPerformed(BasicMenuItemUI.java:932)
+	at java.desktop/javax.swing.SwingUtilities.notifyAction(SwingUtilities.java:1810)
+	at java.desktop/javax.swing.JComponent.processKeyBinding(JComponent.java:2900)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:699)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processBindingForKeyStrokeRecursive(JMenuBar.java:706)
+	at java.desktop/javax.swing.JMenuBar.processKeyBinding(JMenuBar.java:677)
+	at java.desktop/javax.swing.KeyboardManager.fireBinding(KeyboardManager.java:311)
+	at java.desktop/javax.swing.KeyboardManager.fireKeyboardAction(KeyboardManager.java:297)
+	at java.desktop/javax.swing.JComponent.processKeyBindingsForAllComponents(JComponent.java:2993)
+	at java.desktop/javax.swing.JComponent.processKeyBindings(JComponent.java:2985)
+	at java.desktop/javax.swing.JComponent.processKeyEvent(JComponent.java:2862)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6412)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:870)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1139)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1009)
+	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:835)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1347381 [AWT-EventQueue-0] INFO  ca.sqlpower.util.ExceptionReport  - Posting error report to SQL Power at URL <http://bugs.sqlpower.ca/architect/postReport>
+1350383 [AWT-EventQueue-0] ERROR ca.sqlpower.util.ExceptionReport  - Couldn't send exception report to <"http://bugs.sqlpower.ca/architect/postReport">
+java.net.SocketTimeoutException: connect timed out
+	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:509)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:604)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:279)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:376)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:397)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1270)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1204)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1098)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1032)
+	at ca.sqlpower.util.ExceptionReport.send(ExceptionReport.java:283)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.handleAndReport(ExceptionHandler.java:117)
+	at ca.sqlpower.architect.swingui.ExceptionHandler.uncaughtException(ExceptionHandler.java:74)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1055)
+	at java.base/java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:1050)
+	at java.desktop/java.awt.EventDispatchThread.processException(EventDispatchThread.java:222)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:214)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+1461839 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.DBTree  - DBTree: exporting list of DnD-type tree paths
+1737789 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@57d4a1c2]
+1748582 [AWT-EventQueue-0] INFO  ca.sqlpower.architect.swingui.PlayPen  - Drop: I am over dtde=java.awt.dnd.DropTargetDropEvent[source=java.awt.dnd.DropTarget@57d4a1c2]
