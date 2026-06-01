@@ -105,15 +105,37 @@
     </index>
    </folder>
   </table>
+  <table id="TAB26" populated="true" UUID="2f8c7ce3-3dc9-4e61-8576-23d9138defe8" name="tb_regras" objectType="TABLE" physicalName="tb_regras" >
+   <remarks></remarks>
+   <folder id="FOLTAB261" populated="true" name="Columns" physicalName="Columns" type="1">
+    <column id="COL27" populated="true" UUID="b11b98b2-bd16-432d-83b4-663b0f7bd300" autoIncrement="false" autoIncrementSequenceName="tb_regras_nu_dias_bloqueado_seq" defaultValue="" name="nu_dias_bloqueado" nullable="0" physicalName="nu_dias_bloqueado" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+     <remarks></remarks>
+    </column>
+    <column id="COL28" populated="true" UUID="e6427ab0-bebd-420f-9f5e-90e89c6f95f1" autoIncrement="false" autoIncrementSequenceName="tb_regras_nu_dias_antecedencia_p_agendamento_seq" defaultValue="" name="nu_dias_antecedencia_p_agendamento" nullable="0" physicalName="nu_dias_antecedencia_p_agendamento" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+     <remarks></remarks>
+    </column>
+    <column id="COL29" populated="true" UUID="2b2f3ae9-4534-4e90-b18f-97958f88b81a" autoIncrement="false" autoIncrementSequenceName="tb_regras_nu_dias_limite_agendamento_seq" defaultValue="" name="nu_dias_limite_agendamento" nullable="0" physicalName="nu_dias_limite_agendamento" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="4" userDefinedTypeUUID="63b011c7-c81f-4c75-8271-632b3c87f727" >
+     <remarks></remarks>
+    </column>
+    </folder>
+    <folder id="FOLTAB263" populated="true" name="Exported Keys" physicalName="Exported Keys" type="3">
+    </folder>
+    <folder id="FOLTAB262" populated="true" name="Imported Keys" physicalName="Imported Keys" type="2">
+    </folder>
+    <folder id="FOLTAB264" populated="true" name="Indices" physicalName="Indices" type="4">
+    <index id="IDX30" populated="true" UUID="9fa1f9f3-ed85-4978-a90b-43c0f71f4e54" clustered="false" name="tb_regras_pk" physicalName="tb_regras_pk" primaryKeyIndex="true" unique="false" >
+    </index>
+   </folder>
+  </table>
   <relationships>
-   <relationship id="REL26" populated="true" UUID="4173dc95-4394-4630-878a-56bd7a7a1afc" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_prestador_tb_horario_fk" physicalName="tb_prestador_tb_horario_fk" pk-table-ref="TAB1" pkCardinality="2" updateRule="3" >
-    <column-mapping id="CMP27" populated="true" UUID="e8124431-3610-4e0f-bca1-f59d161954c7" fk-column-ref="COL22" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL2" />
+   <relationship id="REL31" populated="true" UUID="4173dc95-4394-4630-878a-56bd7a7a1afc" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_prestador_tb_horario_fk" physicalName="tb_prestador_tb_horario_fk" pk-table-ref="TAB1" pkCardinality="2" updateRule="3" >
+    <column-mapping id="CMP32" populated="true" UUID="e8124431-3610-4e0f-bca1-f59d161954c7" fk-column-ref="COL22" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL2" />
    </relationship>
-   <relationship id="REL28" populated="true" UUID="249aee68-6a7e-466a-9bf9-92b21755906d" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_servico_tb_horario_fk" physicalName="tb_servico_tb_horario_fk" pk-table-ref="TAB7" pkCardinality="2" updateRule="3" >
-    <column-mapping id="CMP29" populated="true" UUID="7cd4f0fc-9a9a-42ef-8d62-9bb56f991214" fk-column-ref="COL20" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL8" />
+   <relationship id="REL33" populated="true" UUID="249aee68-6a7e-466a-9bf9-92b21755906d" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_servico_tb_horario_fk" physicalName="tb_servico_tb_horario_fk" pk-table-ref="TAB7" pkCardinality="2" updateRule="3" >
+    <column-mapping id="CMP34" populated="true" UUID="7cd4f0fc-9a9a-42ef-8d62-9bb56f991214" fk-column-ref="COL20" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL8" />
    </relationship>
-   <relationship id="REL30" populated="true" UUID="d9eb7e74-dbdb-4239-84b5-c94e565d8fd4" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_cliente_tb_horario_fk" physicalName="tb_cliente_tb_horario_fk" pk-table-ref="TAB12" pkCardinality="2" updateRule="3" >
-    <column-mapping id="CMP31" populated="true" UUID="d44083e8-b361-4b20-becc-f4c4b66b4551" fk-column-ref="COL21" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL13" />
+   <relationship id="REL35" populated="true" UUID="d9eb7e74-dbdb-4239-84b5-c94e565d8fd4" deferrability="7" deleteRule="3" fk-table-ref="TAB18" fkCardinality="7" identifying="false" name="tb_cliente_tb_horario_fk" physicalName="tb_cliente_tb_horario_fk" pk-table-ref="TAB12" pkCardinality="2" updateRule="3" >
+    <column-mapping id="CMP36" populated="true" UUID="d44083e8-b361-4b20-becc-f4c4b66b4551" fk-column-ref="COL21" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL13" />
    </relationship>
   </relationships>
  </target-database>
@@ -121,13 +143,14 @@
  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
  <create-kettle-job-settings filePath="" jobName="" schemaName="" kettleJoinType="0" savingToFile="true" />
  <play-pen zoom="1.0" viewportX="0" viewportY="0" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
-  <table-pane table-ref="TAB1" x="114" y="197" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB7" x="327" y="565" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB12" x="770" y="169" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-pane table-ref="TAB18" x="427" y="289" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
-  <table-link relationship-ref="REL26" pkConnection="0.8734177215189873" fkConnection="0.12658227848101267" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="33"/>
-  <table-link relationship-ref="REL30" pkConnection="0.15637860082304528" fkConnection="0.9461538461538461" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
-  <table-link relationship-ref="REL28" pkConnection="0.33739837398373984" fkConnection="0.7692307692307693" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
+  <table-pane table-ref="TAB1" x="79" y="124" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB7" x="750" y="474" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB12" x="762" y="116" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB18" x="406" y="261" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-pane table-ref="TAB26" x="67" y="451" bgColor="0xeeeeee" fgColor="0x000000" rounded="false" dashed="false"/>
+  <table-link relationship-ref="REL31" pkConnection="0.8734177215189873" fkConnection="0.12658227848101267" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="33"/>
+  <table-link relationship-ref="REL35" pkConnection="0.15637860082304528" fkConnection="0.9461538461538461" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="132"/>
+  <table-link relationship-ref="REL33" pkConnection="0.33739837398373984" fkConnection="0.7692307692307693" rLineColor="0x000000" pkLabelText="" fkLabelText="" orientation="72"/>
  </play-pen>
  <critic-manager>
   <critic-grouping platformType="Generic" enabled="true">
